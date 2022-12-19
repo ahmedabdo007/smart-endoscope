@@ -1,0 +1,35 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>imag/bg.png</file>
+		<file>imag/doooo.png</file>
+		<file>imag/username.png</file>
+		<file>imag/pass.png</file>
+		<file>imag/true.png</file>
+		<file>imag/username.png</file>
+		<file>imag/search.png</file>
+		<file>imag/pen.png</file>
+		<file>imag/patient.png</file>
+		<file>imag/option.jpg</file>
+		<file>imag/setting.jpg</file>
+		<file>imag/doctor.jpg</file>
+		<file>imag/h1.jpg</file>
+		<file>imag/h2.jpg</file>
+		<file>imag/h3.jpg</file>
+		<file>imag/del.png</file>
+		<file>imag/invest.png</file>
+		<file>imag/sear.png</file>
+		<file>imag/0.jpg</file>
+		<file>imag/1.jpg</file>
+		<file>imag/2.jpg</file>
+		<file>imag/3.jpg</file>
+		<file>imag/4.jpg</file>
+		<file>imag/plus.png</file>
+		<file>imag/plu.webp</file>
+		<file>imag/patient.webp</file>
+		<file>imag/do.jpg</file>
+		<file>imag/home.jpg</file>
+		
+		
+	</qresource>
+</RCC>
